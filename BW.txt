@@ -1,0 +1,18 @@
+ESERCIZIO 1
+Come si può vedere dagli screenshot "BW1" e "BW1_2" ho usato un SQL injection per vedere in chiaro i dati sensibili dell'obbiettivo richiesto dalla traccia e con john the ripper ho decodificato la password. 
+Ho fatto la stessa cosa con il livello di sicurezza medium utilizando Burpsuit ("BW1_3").
+
+ESERCIZIO 2
+"BW2"/"BW2_2"/"BW2_3"
+In questo esercizio ho usato python3 come server in ascolto ed ho usato lo stesso script sia per il livello di sicurezza low che medium. 
+
+ESERCIZIO 3
+Le problematiche del codice fornito sono l'assenza di controllo di imput non validi e overflow dell'array. 
+Nel file di testo "BW3" sono riportati due codici di cui uno "errato" come richiesto e l'altro corretto e funzionante.
+
+ESERCIZIO 4
+esercizio svolto screenshot "BW4"
+
+ESERCIZIO 5
+esercizio svolto eccetto la creazione di una backdoor e capire se il terget è una macchina virtuale o meno.
+ screenshot "BW5" "BW5_2" "BW5_3" "BW5_4  webcam e screenshot" 
